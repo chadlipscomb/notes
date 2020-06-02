@@ -177,7 +177,7 @@ Allows users outside of AWS to assume temprary roles for accessing AWS resources
 
 **Process**
 
-![           Getting temporary security credentials based on a SAML assertion         ](/assets/saml-based-federation.diagram.png)
+![           Getting temporary security credentials based on a SAML assertion         ](./assets/saml-based-federation.diagram.png)
 
 This example uses an app.
 
@@ -192,7 +192,7 @@ This example uses an app.
 
 This example is for Console access and does not use an application.
 
-![img](/assets/federated_auth_with_adfs_25.dc86ecbfbbf80af3f553e7374d2a55ad1afb7016.png)
+![img](./assets/federated_auth_with_adfs_25.dc86ecbfbbf80af3f553e7374d2a55ad1afb7016.png)
 
 1. User logs into portal via browser.
 2. AD Identity Store authenticates user
@@ -211,7 +211,7 @@ This example is for Console access and does not use an application.
 
 **Process**
 
-![Sample workflow using a custom identity broker application](/assets/enterprise-authentication-with-identity-broker-application.diagram.png)
+![Sample workflow using a custom identity broker application](./assets/enterprise-authentication-with-identity-broker-application.diagram.png)
 
 1. User accesses Identity Broker
 2. Identity broker authenticates user with the Corporate Identity Store.
@@ -226,7 +226,7 @@ Remember, this is not recommended by AWS.
 
 **Process**
 
-![img](/assets/wif-overview.png)
+![img](./assets/wif-overview.png)
 
 
 
@@ -240,7 +240,7 @@ Remember, this is not recommended by AWS.
 
 **Process**
 
-![       Sample workflow using Amazon Cognito to federate users for a mobile application     ](/assets/mobile-app-web-identity-federation.diagram.png)
+![       Sample workflow using Amazon Cognito to federate users for a mobile application     ](./assets/mobile-app-web-identity-federation.diagram.png)
 
 1. A customer starts app
 2. Redirects to Login with Amazon and recieves an ID token
@@ -269,7 +269,7 @@ Similar to previous Identity Federation Providers, but ADFS is privately managed
 
 **Process**
 
-![img](/assets/PierreLiddle-Diagram-072917-a.jpg)
+![img](./assets/PierreLiddle-Diagram-072917-a.jpg)
 
 1. User browses to URL with ADFS authentication
 2. ADFS authenticates user with Active Directory
