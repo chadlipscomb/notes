@@ -25,6 +25,7 @@
 [SAWS: Supercharged AWS CLI](https://github.com/donnemartin/saws)
 
 [Awsume - Use assumed role to access the console](https://github.com/trek10inc/awsume-console-plugin)
+[Cloudskew - Architecture Diagrams](https://www.cloudskew.com/)
 
 
 ## Videos
