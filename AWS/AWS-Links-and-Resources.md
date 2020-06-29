@@ -42,6 +42,7 @@
 
 [Creating and automating a serverless profile application with AWS SAM, AWS CI/CD & Angular](https://read.khansikandar.com/2020/05/29/creating-and-automating-a-serverless-profile-application-with-aws-sam-aws-ci-cd-angular-part-1/)
 
+[Cloud Resume Challenge](https://cloudresumechallenge.dev/)
 
 
 ## Exam Guides
