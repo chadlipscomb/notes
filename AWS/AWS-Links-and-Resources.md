@@ -22,6 +22,9 @@
 
 [Setting up AWS CLI](https://docs.aws.amazon.com/polly/latest/dg/setup-aws-cli.html)
 
+[SAWS: Supercharged AWS CLI](https://github.com/donnemartin/saws)
+
+[Awsume - Use assumed role to access the console](https://github.com/trek10inc/awsume-console-plugin)
 
 
 ## Videos
@@ -43,6 +46,8 @@
 [Creating and automating a serverless profile application with AWS SAM, AWS CI/CD & Angular](https://read.khansikandar.com/2020/05/29/creating-and-automating-a-serverless-profile-application-with-aws-sam-aws-ci-cd-angular-part-1/)
 
 [Cloud Resume Challenge](https://cloudresumechallenge.dev/)
+
+[Cross account roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html)
 
 
 ## Exam Guides
